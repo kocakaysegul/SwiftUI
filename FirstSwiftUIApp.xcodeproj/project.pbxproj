@@ -11,6 +11,7 @@
 		D8AD7E0329E2BADA00072BD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AD7E0229E2BADA00072BD9 /* ContentView.swift */; };
 		D8AD7E0529E2BADA00072BD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8AD7E0429E2BADA00072BD9 /* Assets.xcassets */; };
 		D8AD7E0829E2BADA00072BD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8AD7E0729E2BADA00072BD9 /* Preview Assets.xcassets */; };
+		D8AD7E0F29E5578300072BD9 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AD7E0E29E5578300072BD9 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D8AD7E0229E2BADA00072BD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D8AD7E0429E2BADA00072BD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8AD7E0729E2BADA00072BD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D8AD7E0E29E5578300072BD9 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D8AD7E0029E2BADA00072BD9 /* FirstSwiftUIAppApp.swift */,
 				D8AD7E0229E2BADA00072BD9 /* ContentView.swift */,
+				D8AD7E0E29E5578300072BD9 /* SecondView.swift */,
 				D8AD7E0429E2BADA00072BD9 /* Assets.xcassets */,
 				D8AD7E0629E2BADA00072BD9 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8AD7E0F29E5578300072BD9 /* SecondView.swift in Sources */,
 				D8AD7E0329E2BADA00072BD9 /* ContentView.swift in Sources */,
 				D8AD7E0129E2BADA00072BD9 /* FirstSwiftUIAppApp.swift in Sources */,
 			);
